@@ -1,0 +1,174 @@
+Library Mods:
+1. Fusion
+2. Lets do API
+3. Architectury API
+4. AutoRegLib
+5. Balm
+6. Botarium
+7. Caelus API
+8. Cloth Config API
+9. CoFH Core
+10. Connected Textures Mod
+11. Curios API
+12. ForgeEndertech
+13. Framework
+14. GeckoLib
+15. Iceberg
+16. Konkrete
+17. Kotlin for Forge
+18. Mantle
+19. Modonomicon
+20. Mysterious Mountain Lib
+21. Resourceful Config
+22. Resourcesful Lib
+23. Scalable Cats Force
+24. SmartBrainLib
+25. Supermartijn642 Config Lib
+26. Supermartijn642 Core Lib
+27. Titanium
+28. Uni Lib
+29. Yungs API
+30. ZeroCore2
+
+Addon Mods:
+1. Ad Astra Giselle Addon
+2. Ad Astra Per Saptium Et Tempus
+3. AE Additions
+4. Create Steam and Rails
+5. Dynamic Trees Biomes O plenty
+6. Dynamic Trees Quark
+7. Dynamic Trees Terralith
+8. Dynamic Trees The Twilight Forest
+9. Corn Delight
+10. Fruits Delight
+11. Immersive Patroleum
+12. Immersive Posts
+13. Jade Addons
+14. Mega cells
+15. Mekanism Additions
+16. More Delight
+17. More Immersive Wires
+18. More Industrial Foregoing
+19. Nethers Delight
+20. Numia
+21. Oceans Delight
+22. Pineapple Delight
+23. Polymorphic Energistics
+24. Rustic Delight
+25. Towers of the Wild Additions
+26. Twilight Flavors and Delight
+27. Yungs additions
+28. Mekanism Generators
+
+Gameplay Mods:
+1. Lets do Vinery (vine)
+2. Ad Astra (Space Exploration)
+3. Additional Enchanted Miner (mining stuff)
+4. Applied Energistics (Storage system)
+5. Baubley Heart Canisters (extra hearts)
+6. Biomes O Plenty (More Biomes)
+7. CC: Tweaked (programming)
+8. Create (gears make everything possible)
+8. Customizable Player Models (AWAWIIIII)
+10. Dynamic Trees (cooler trees)
+11. Extreme Reactors (UNLIMITED POWERRR)
+12. Farmers Delight (foob)
+13. Flux Networks (wireless energy)
+14. Goblin Traders (traders in caves)
+15. Immersive Engineering (realistic multiblock machines to refine stuff and automate)
+16. Industrial Foregoing (lots of machines that make your life easier)
+17. Iron Chests (cool and bigger chests)
+18. Jade (What am I looking at ?)
+19. Journey Maps (best map mod)
+20. JEI (recipe book but cool)
+21. Large Ore Deposits (you need ore, we have ore)
+22. Lootr (instanced loot for every player)
+23. Mekanism (lots a tech)
+24. Minecraft Transit Railway (simple railway mod with lots of decor)
+25. Modular Powersuits (end game powersuit to make things easier)
+26. Occultism (magic mod)
+27. Open Blocks Elevator (simple easy elevator)
+28. Packed Up (simple backpack mod)
+29. Psi (magic mod, programm your own spells)
+30. Quark (lots of neat stuff)
+31. Sounds Physics Remastered (cooler sound)
+32. Tinkers Construct (make your own tools and double ores)
+33. Tinkers Mechworks (neat tech additions)
+34. Travelers Backpack (the backpack that can do more)
+35. Yungs better Desert Temples
+36. Yungs better Dungeons
+37. Yungs better End Islands
+38. Yungs better Jungle Temples
+39. Yungs better Mineshafts
+40. Yungs better Nether Fortresses
+41. Yungs better Ocean Monuments
+42. Yungs better Strongholds
+43. Yungs better witch huts
+44. Yungs better Bridges
+
+Compat Mods:
+1. Create Ad Astra Compat
+
+
+Decoration Mods:
+1. Decorative Blocks
+2. MrCrayfish Furniture Mod: Refurbished
+3. Macaws Bridges
+4. Macaws Doors
+5. Macaws Fences and Walls
+6. Macaws Furniture
+7. Macaws Holidays
+8. Macaws Lights and Lamps
+9. Macaws Paths and Pavings
+10. Macaws Roofs
+11. Macaws Stairs
+12. Macaws Trapdoors
+13. Macaws Windows
+14. Rechiseled
+15. Twigs
+16. Chipped
+17. Framed Blocks
+
+
+Generation Mods:
+1. Dungeon Crawl
+2. Terra Blender
+3. Terralith
+
+
+Dimension Mods:
+1. Twilight Forest
+
+
+Nice to have's:
+1. 4. Advancement Plagues
+2. Appleskin
+3. Connected Glass
+4. Controlling
+5. Cosmetic Armor Reworked
+6. Dynamic Lights
+7. Elytra Slot
+8. Forgiving Void
+9. FPS Monitor
+10. Gravestone Mod
+11. Immersive Paintings
+12. Just Zoom
+13. Luggage
+14. More Overlays
+15. Mouse Tweaks
+16. No Chat Reports
+17. Patchouli
+18. Polymorph
+19. ReAuth
+20. Right Click Harvest
+21. Swing Through Grass
+22. Torchmaster
+23. Travelers Titles
+24. Ore Clumps
+25. Construction Wand
+26. ftb ultimine
+27. configured
+
+Performance Mods:
+1. Clumps
+2. FerritCore

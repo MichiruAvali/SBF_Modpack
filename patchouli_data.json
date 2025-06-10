@@ -1,0 +1,15 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bigreactors:erguide": {
+      "viewedEntries": [
+        "bigreactors:reactor/innerworking",
+        "bigreactors:intro/first",
+        "bigreactors:reactor/part-controller"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
